@@ -4,16 +4,16 @@
 
 |![400](/img/sprites/488.png)| Stats | 
 |---|---|
-|Cresselia @ Leftovers <br />Ability: Levitate <br />Level: 50 <br />EVs: 248 HP / 252 Def / 4 SpD / 4 Spe <br />Bold Nature <br />IVs: 30 HP / 1 Atk / 30 SpA <br />- Psychic <br />- Thunder Wave <br />- Flash <br />- Moonlight | 226 HP <br />67 Atk <br />189 Def <br />95 Spa <br />151 SpD <br />106 Spe|
+|Cresselia @ Leftovers<br />Ability: Levitate<br />Level: 50<br />EVs: 248 HP / 252 Def / 4 SpD / 4 Spe<br />Bold Nature<br />IVs: 30 HP / 1 Atk / 31 Def / 30 SpA / 31 SpD / 31 Spe<br />- Psychic<br />- Thunder Wave<br />- Flash<br />- Moonlight | 226 HP<br />67 Atk<br />189 Def<br />95 Spa<br />151 SpD<br />106 Spe|
 
 
 
 |![400](/img/sprites/144.png)| Stats | 
 |---|---|
-|Articuno @ Bright Powder <br />Ability: Pressure <br />Level: 50 <br />EVs: 252 HP / 4 SpD / 252 Spe <br />Timid Nature <br />IVs: 2 Atk / 30 SpA <br />- Sheer Cold <br />- Mind Reader <br />- Substitute <br />- Roost | 197 HP <br />81 Atk <br />120 Def <br />115 Spa <br />146 SpD <br />150 Spe|
+|Articuno @ Bright Powder<br />Ability: Pressure<br />Level: 50<br />EVs: 252 HP / 4 SpD / 252 Spe<br />Timid Nature<br />IVs: 31 HP / 2 Atk / 31 Def / 30 SpA / 31 SpD / 31 Spe<br />- Sheer Cold<br />- Mind Reader<br />- Substitute<br />- Roost | 197 HP<br />81 Atk<br />120 Def<br />115 Spa<br />146 SpD<br />150 Spe|
 
 
 
 |![400](/img/sprites/445_m.png)| Stats | 
 |---|---|
-|Garchomp (M) @ Choice Scarf <br />Ability: Sand Veil <br />Level: 50 <br />EVs: 4 HP / 252 Atk / 252 Spe <br />Jolly Nature <br />IVs: 12 SpA <br />- Outrage <br />- Earthquake <br />- Swords Dance <br />- Fire Fang | 184 HP <br />182 Atk <br />115 Def <br />81 Spa <br />105 SpD <br />169 Spe|
+|Garchomp (M) @ Choice Scarf<br />Ability: Sand Veil<br />Level: 50<br />EVs: 4 HP / 252 Atk / 252 Spe<br />Jolly Nature<br />IVs: 31 HP / 31 Atk / 31 Def / 12 SpA / 31 SpD / 31 Spe<br />- Outrage<br />- Earthquake<br />- Swords Dance<br />- Fire Fang | 184 HP<br />182 Atk<br />115 Def<br />81 Spa<br />105 SpD<br />169 Spe|
