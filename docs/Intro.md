@@ -15,5 +15,4 @@ Pk Frontier, is a web and desktop based app, which can perform the following act
 
 ## Accessing Pk Frontier
 - [Web](https://will-jj.github.io/pk-frontier)
-    - Currently limited correction with regards to strict legality/encounters etc.
 - [Desktop](https://github.com/will-jj/pk-frontier/releases/latest)
